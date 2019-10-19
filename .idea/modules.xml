@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-development/development-api/development-api.iml" filepath="$PROJECT_DIR$/dfjinxin-development/development-api/development-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-development/development-server/development-server.iml" filepath="$PROJECT_DIR$/dfjinxin-development/development-server/development-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-commons/dfjinxin-commons.iml" filepath="$PROJECT_DIR$/dfjinxin-commons/dfjinxin-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-commons/dfjinxin-commons-auth/dfjinxin-commons-auth.iml" filepath="$PROJECT_DIR$/dfjinxin-commons/dfjinxin-commons-auth/dfjinxin-commons-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-commons/dfjinxin-commons-constant/dfjinxin-commons-constant.iml" filepath="$PROJECT_DIR$/dfjinxin-commons/dfjinxin-commons-constant/dfjinxin-commons-constant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-commons/dfjinxin-commons-core/dfjinxin-commons-core.iml" filepath="$PROJECT_DIR$/dfjinxin-commons/dfjinxin-commons-core/dfjinxin-commons-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-commons/dfjinxin-commons-mybatis/dfjinxin-commons-mybatis.iml" filepath="$PROJECT_DIR$/dfjinxin-commons/dfjinxin-commons-mybatis/dfjinxin-commons-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-development/dfjinxin-development.iml" filepath="$PROJECT_DIR$/dfjinxin-development/dfjinxin-development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/dfjinxin-generator/dfjinxin-generator.iml" filepath="$PROJECT_DIR$/tools/dfjinxin-generator/dfjinxin-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-population/dfjinxin-population.iml" filepath="$PROJECT_DIR$/dfjinxin-population/dfjinxin-population.iml" />
+      <module fileurl="file://$PROJECT_DIR$/largescreen.iml" filepath="$PROJECT_DIR$/largescreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-population/population-api/population-api.iml" filepath="$PROJECT_DIR$/dfjinxin-population/population-api/population-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfjinxin-population/population-server/population-server.iml" filepath="$PROJECT_DIR$/dfjinxin-population/population-server/population-server.iml" />
+    </modules>
+  </component>
+</project>

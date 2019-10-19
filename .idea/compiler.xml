@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dfjinxin-commons-auth" />
+        <module name="development-api" />
+        <module name="dfjinxin-commons-core" />
+        <module name="dfjinxin-commons-mybatis" />
+        <module name="development-server" />
+        <module name="dfjinxin-commons-constant" />
+        <module name="population-api" />
+        <module name="population-server" />
+        <module name="dfjinxin-generator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="development-api" target="8" />
+      <module name="development-server" target="8" />
+      <module name="dfjinxin-commons" target="1.5" />
+      <module name="dfjinxin-commons-auth" target="8" />
+      <module name="dfjinxin-commons-constant" target="8" />
+      <module name="dfjinxin-commons-core" target="8" />
+      <module name="dfjinxin-commons-mybatis" target="8" />
+      <module name="dfjinxin-development" target="8" />
+      <module name="dfjinxin-generator" target="1.8" />
+      <module name="dfjinxin-population" target="8" />
+      <module name="largescreen" target="1.5" />
+      <module name="population-api" target="8" />
+      <module name="population-server" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dfjinxin-development" options="" />
+      <module name="dfjinxin-generator" options="-parameters" />
+      <module name="dfjinxin-population" options="" />
+      <module name="largescreen" options="-parameters" />
+      <module name="population-api" options="" />
+      <module name="population-server" options="" />
+    </option>
+  </component>
+</project>
