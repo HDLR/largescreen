@@ -11,3 +11,7 @@ spring:
       maximum-pool-size: 5
       idle-timeout: 10000
       auto-commit: true
+
+logging:
+  level:
+    com.dfjinxin.population.server.modules.dao: DEBUG
